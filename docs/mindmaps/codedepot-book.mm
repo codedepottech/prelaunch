@@ -1,0 +1,436 @@
+<map version="freeplane 1.6.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<node TEXT="CodeDepot Book" FOLDED="false" ID="ID_1898514672" CREATED="1528659686906" MODIFIED="1528823174458" STYLE="oval">
+<font SIZE="18"/>
+<hook NAME="MapStyle">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
+<font SIZE="24"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="default" ICON_SIZE="12.0 pt" COLOR="#000000" STYLE="fork">
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes">
+<font SIZE="9"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.important">
+<icon BUILTIN="yes"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000" STYLE="oval" SHAPE_HORIZONTAL_MARGIN="10.0 pt" SHAPE_VERTICAL_MARGIN="10.0 pt">
+<font SIZE="18"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
+<font SIZE="16"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
+<font SIZE="14"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000">
+<font SIZE="12"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11"/>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
+<node TEXT="Notes" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_182320688" CREATED="1528822927013" MODIFIED="1528823174457" HGAP_QUANTITY="260.24999224394577 pt" VSHIFT_QUANTITY="-224.2499933168294 pt">
+<hook NAME="FreeNode"/>
+<node TEXT="The introduction needs more info on the problems with the software ecosystem as it stands today" ID="ID_1184405097" CREATED="1528822993090" MODIFIED="1528823064521"/>
+<node TEXT="Change &quot;lowly software producer&apos;s product sales&quot; to &quot;lowly software creator&apos;s product sales&quot;" ID="ID_1387120265" CREATED="1528823075811" MODIFIED="1528826161955"/>
+<node TEXT="The overview neglects to talk about the vast improvement codechain provides.. it only speaks of the collaborative" ID="ID_465705085" CREATED="1528827598304" MODIFIED="1528827656065"/>
+<node TEXT="In the solution section, the first item mentioned is fbp/codechain... considering that I did not even mention a problem with the current software scheme.. I should supplement the &quot;problems&quot; area with the problems of current software delivery/execution." ID="ID_1064560791" CREATED="1528828055564" MODIFIED="1528828165620"/>
+<node TEXT="The solution does not mention decentralized collaborative work environment or decentralized governence" ID="ID_1888031910" CREATED="1528831489784" MODIFIED="1528831536613"/>
+<node TEXT="&quot;The solution entails...&quot; is not elaborate enough" ID="ID_831351946" CREATED="1528832308049" MODIFIED="1528832346962"/>
+<node TEXT="In the &quot;Solution&quot;, change &quot;Anything that can be incentivized will be incentivized&quot; ...to &quot;Anything that can be incentivized to add value to the network platform will be incentivized. ..... (MAYBE NOT.. think on it)" ID="ID_559925336" CREATED="1528832902070" MODIFIED="1528833189493"/>
+<node TEXT="In the introduction, I need to expand on the CodeDepot.tech utiliy.. like dashboards and communication mechanisms" ID="ID_596515622" CREATED="1529000757535" MODIFIED="1529000806283"/>
+</node>
+<node TEXT="WhitePaper" POSITION="right" ID="ID_1203228122" CREATED="1528659778346" MODIFIED="1528659785261">
+<edge COLOR="#0000ff"/>
+<node TEXT="Abstract" FOLDED="true" ID="ID_808985347" CREATED="1528821668225" MODIFIED="1528821674284">
+<node TEXT="Complete paradigm shift in software production is possible" ID="ID_1755016962" CREATED="1528821874515" MODIFIED="1528821918221"/>
+<node TEXT="Time-to-market decrease by a hundredfold" ID="ID_1214014116" CREATED="1528821919713" MODIFIED="1528821943438"/>
+<node TEXT="These innovations will change the way all computing is done in the future" ID="ID_502563264" CREATED="1528821945195" MODIFIED="1528821978607"/>
+<node TEXT="Standing on the shoulders of giants.. FOSS community" ID="ID_949380045" CREATED="1528821988757" MODIFIED="1528822025314"/>
+</node>
+<node TEXT="Overview" ID="ID_281058768" CREATED="1528821683549" MODIFIED="1528821687541">
+<node TEXT="The Problem" FOLDED="true" ID="ID_394563393" CREATED="1528659795830" MODIFIED="1528659809897">
+<node TEXT="Introduction" ID="ID_1166647450" CREATED="1528822078244" MODIFIED="1528822097255">
+<node TEXT="software infused in society" ID="ID_1798509259" CREATED="1528822098236" MODIFIED="1528822108160"/>
+<node TEXT="the tech that enables all other tech.. is what stems all increases in societal productivity." ID="ID_925492258" CREATED="1528822108501" MODIFIED="1528822195490"/>
+<node TEXT="ai, data-mining and iot will enhance the previous notion by magnitudes" ID="ID_1790776550" CREATED="1528822196053" MODIFIED="1528822240369"/>
+<node TEXT="the creation and usage of software is very problematic.. needs improving." ID="ID_73418037" CREATED="1528822268191" MODIFIED="1528822308756"/>
+<node TEXT="ecosystem conventions are frought with inefficiencies" ID="ID_1262467273" CREATED="1528822312404" MODIFIED="1528822347276"/>
+</node>
+<node TEXT="Creators" ID="ID_970821218" CREATED="1528822366355" MODIFIED="1528822373651">
+<node TEXT="Unwarranted complexity" ID="ID_1418953929" CREATED="1528822428298" MODIFIED="1528822448468"/>
+<node TEXT="Lack of interoperability" ID="ID_912721688" CREATED="1528822448955" MODIFIED="1528822457190"/>
+<node TEXT="Programming system redundencies" ID="ID_1315446185" CREATED="1528822463705" MODIFIED="1528822486241"/>
+<node TEXT="Replication of effort is both profuse and pervasive" ID="ID_171123777" CREATED="1528822693085" MODIFIED="1528822728767"/>
+</node>
+<node TEXT="Users" ID="ID_1083707130" CREATED="1528822374632" MODIFIED="1528822427040">
+<node TEXT="Frustrations w/ the time and sophistication required to learn a software system" ID="ID_1877835988" CREATED="1528825392488" MODIFIED="1528825547062"/>
+<node TEXT="The docs/help system isn&apos;t much help" ID="ID_1056156915" CREATED="1528825548176" MODIFIED="1528825587797"/>
+<node TEXT="System lacks a feature or is too feature-full" ID="ID_274196955" CREATED="1528825566737" MODIFIED="1528825707771"/>
+<node TEXT="Small biz owners struggle w/ system selection and integration" ID="ID_912185360" CREATED="1528825713931" MODIFIED="1528825752883"/>
+</node>
+<node TEXT="Marketplace" ID="ID_184166494" CREATED="1528825821079" MODIFIED="1528825825432">
+<node TEXT="Most are concentrated silos.. oligopolistic" ID="ID_686359931" CREATED="1528825826475" MODIFIED="1528825869049">
+<node TEXT="A few behemoths take large % commish from a lowly sw creator&apos;s product sales" ID="ID_72833608" CREATED="1528825872998" MODIFIED="1528825946491"/>
+<node TEXT="Dicatate rules that are overly stringent or simply used to control the dommination they hold in the market" ID="ID_1787315944" CREATED="1528825947214" MODIFIED="1528825999452"/>
+</node>
+<node TEXT="Users may find it intimidating and inconvenient to hire a dev for a bespoke project" ID="ID_895887844" CREATED="1528826002363" MODIFIED="1528826071684"/>
+</node>
+<node TEXT="Conclusion Paragraph" ID="ID_691686514" CREATED="1528826220423" MODIFIED="1528826231359">
+<node TEXT="The reader is asked:" ID="ID_480371878" CREATED="1528826233920" MODIFIED="1528826250602">
+<node TEXT="Ever been frustrated?" ID="ID_343431986" CREATED="1528826250607" MODIFIED="1528826266104"/>
+<node TEXT="Some aspect overly complicated, unintuitive or inflexible?" ID="ID_1936526256" CREATED="1528826266554" MODIFIED="1528826317794"/>
+<node TEXT="Ever thought: IT DOESN&apos;T HAVE TO BE THIS WAY!" ID="ID_447722895" CREATED="1528826285012" MODIFIED="1528826406114"/>
+<node TEXT="Ecosystem greatly needs a paradigm shift.. is ripe for innovation" ID="ID_703717181" CREATED="1528826411987" MODIFIED="1528826460126"/>
+</node>
+</node>
+</node>
+<node TEXT="The Solution" FOLDED="true" ID="ID_155999970" CREATED="1528659811645" MODIFIED="1528659816292">
+<node TEXT="Overview" FOLDED="true" ID="ID_251626498" CREATED="1528827983242" MODIFIED="1528827987015">
+<node TEXT="The improvement, here proposed, is a world wide collaboration, called CodeDepot" ID="ID_191701447" CREATED="1528826672746" MODIFIED="1528826716839"/>
+<node TEXT="This paper begins the conversation of needed improvements.. the community is asked to participate" ID="ID_942390982" CREATED="1528826718961" MODIFIED="1528826788651">
+<node TEXT="The community are the people that engage with sw" ID="ID_1142867477" CREATED="1528826791280" MODIFIED="1528826828210">
+<node TEXT="Categories" ID="ID_953285404" CREATED="1528826895359" MODIFIED="1528826901460">
+<node TEXT="production" ID="ID_1949236688" CREATED="1528826828215" MODIFIED="1528826837233"/>
+<node TEXT="sales" ID="ID_1531358527" CREATED="1528826837989" MODIFIED="1528826839668"/>
+<node TEXT="tuteledge" ID="ID_172839039" CREATED="1528826841314" MODIFIED="1528826846709"/>
+<node TEXT="usage" ID="ID_996596513" CREATED="1528826847494" MODIFIED="1528826858358"/>
+</node>
+<node TEXT="User Types" ID="ID_521735758" CREATED="1528826901785" MODIFIED="1528826915781">
+<node TEXT="Casual" ID="ID_944407775" CREATED="1528826916486" MODIFIED="1528827523952"/>
+<node TEXT="Power User" ID="ID_683903635" CREATED="1528827524504" MODIFIED="1528827529218"/>
+</node>
+</node>
+</node>
+<node TEXT="Easy, global discussion and contribution ensures the best solutions to problems we all identify are addressed most thoroughly and effectively" ID="ID_897529786" CREATED="1528827768379" MODIFIED="1528827974463"/>
+</node>
+<node TEXT="First" FOLDED="true" ID="ID_748652918" CREATED="1528832388202" MODIFIED="1528832405556">
+<node TEXT="Unconventional programming model" ID="ID_1343316855" CREATED="1528832406024" MODIFIED="1528832425169"/>
+<node TEXT="Leveraging of open source software" ID="ID_197588629" CREATED="1528832454493" MODIFIED="1528832478218"/>
+<node TEXT="Blockchain tech" ID="ID_1617132838" CREATED="1528832482390" MODIFIED="1528832487876"/>
+</node>
+<node TEXT="Second" FOLDED="true" ID="ID_371363973" CREATED="1528832498566" MODIFIED="1528832502446">
+<node TEXT="Network private currency" ID="ID_1805751376" CREATED="1528832531905" MODIFIED="1528832563558">
+<node TEXT="An economic model incentivizes collaborative participation" FOLDED="true" ID="ID_713419655" CREATED="1528832563563" MODIFIED="1528832598558">
+<node TEXT="Creation" ID="ID_671825100" CREATED="1528832599976" MODIFIED="1528832612934"/>
+<node TEXT="Usage" ID="ID_11361482" CREATED="1528832613479" MODIFIED="1528832677580"/>
+<node TEXT="Tutelege" ID="ID_45430786" CREATED="1528832677876" MODIFIED="1528832692501"/>
+<node TEXT="Goverence" ID="ID_1934269705" CREATED="1528832693277" MODIFIED="1528832701126"/>
+</node>
+<node TEXT="Anything that can be incentivised to add value to the network platform, will be incentivized" ID="ID_1893463227" CREATED="1528832816796" MODIFIED="1528832900587"/>
+</node>
+</node>
+<node TEXT="Most Importantly" FOLDED="true" ID="ID_1926965944" CREATED="1528835870821" MODIFIED="1528835878504">
+<node TEXT="Designed to find efficacy and efficiency for every single aspect of a decentralized and ubiquitous software system" ID="ID_676088177" CREATED="1528835879322" MODIFIED="1528835936546"/>
+</node>
+<node TEXT="The six pillars" ID="ID_198050240" CREATED="1528835980238" MODIFIED="1528835993859">
+<node TEXT="Foundational to the system" ID="ID_1684598824" CREATED="1528835995944" MODIFIED="1528836018843"/>
+<node TEXT="May change the conventioal paradigm" ID="ID_1377009964" CREATED="1528836019291" MODIFIED="1528836046127"/>
+<node TEXT="Presented are merely proposals" ID="ID_623113048" CREATED="1528836066040" MODIFIED="1528836078133">
+<node TEXT="Anyone can refine/change proposals" ID="ID_1773578865" CREATED="1528836078136" MODIFIED="1528836150785"/>
+</node>
+<node TEXT="The pillars:" ID="ID_1489113657" CREATED="1528836151783" MODIFIED="1528836160101">
+<node TEXT="CodeChain" ID="ID_964980385" CREATED="1528836166540" MODIFIED="1528836170683"/>
+<node TEXT="CodeDepot" ID="ID_272903211" CREATED="1528836174585" MODIFIED="1528836177218"/>
+<node TEXT="WorkSource" ID="ID_1230401549" CREATED="1528836177586" MODIFIED="1528836182007"/>
+<node TEXT="CodeSweet" ID="ID_666026721" CREATED="1528836182443" MODIFIED="1528836186896"/>
+<node TEXT="CodeCache" ID="ID_590383438" CREATED="1528836188772" MODIFIED="1528836197043"/>
+<node TEXT="CodeDepot Collaborative" ID="ID_785938452" CREATED="1528836198540" MODIFIED="1528836215392"/>
+</node>
+</node>
+<node TEXT="Conclusion" ID="ID_1355063776" CREATED="1528836239694" MODIFIED="1528836244491">
+<node TEXT="FOSS and its community are quite nobel" ID="ID_82792554" CREATED="1528836245364" MODIFIED="1528836264065"/>
+<node TEXT="Becoming the defacto standard world wide" ID="ID_1542760447" CREATED="1528836264542" MODIFIED="1528836306047">
+<node TEXT="Even corporate giants" ID="ID_1467937496" CREATED="1528836306049" MODIFIED="1528836315244"/>
+<node TEXT="Governments" ID="ID_875199203" CREATED="1528836315591" MODIFIED="1528836322346"/>
+</node>
+<node TEXT="CD is wholy inspired by the above model" FOLDED="true" ID="ID_1204574883" CREATED="1528836540527" MODIFIED="1528836558481">
+<node TEXT="CD will monetarily incentivize/reward the FOSS community" ID="ID_54751241" CREATED="1528836559563" MODIFIED="1528836599750"/>
+<node TEXT="CD will project FOSS ethics and governence in a decentralized manner" ID="ID_941358042" CREATED="1528836600247" MODIFIED="1528836635576"/>
+</node>
+<node TEXT="Finally.." ID="ID_268753100" CREATED="1528836642568" MODIFIED="1528836654741">
+<node TEXT="Envision the possiblities of a collaborative effort to change the current paradigm" ID="ID_1307414596" CREATED="1528836655104" MODIFIED="1528836699254">
+<node TEXT="production" ID="ID_1463073071" CREATED="1528836700233" MODIFIED="1528836704381"/>
+<node TEXT="consumption" ID="ID_1642214851" CREATED="1528836704600" MODIFIED="1528836708298"/>
+<node TEXT="usage" ID="ID_1827054940" CREATED="1528836714969" MODIFIED="1528836734097"/>
+</node>
+<node TEXT="You are encouraged to join this effort" ID="ID_1528799488" CREATED="1528836734888" MODIFIED="1528836767386">
+<node TEXT="Modernize the ecosystem" ID="ID_590105157" CREATED="1528836792705" MODIFIED="1528836804574"/>
+<node TEXT="open source and its principles" ID="ID_844082275" CREATED="1528836805616" MODIFIED="1528836837547"/>
+<node TEXT="What would you have improved" FOLDED="true" ID="ID_1048328652" CREATED="1528836843723" MODIFIED="1528836866716">
+<node TEXT="These will be monetarily incentivized and addressed" ID="ID_835301977" CREATED="1528836866718" MODIFIED="1528836911244"/>
+</node>
+<node TEXT="Become a contributing member" ID="ID_1143093685" CREATED="1528836915188" MODIFIED="1528836956411"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="The Impact" ID="ID_1116193345" CREATED="1528680056471" MODIFIED="1528680066702">
+<node TEXT="" FOLDED="true" ID="ID_491430647" CREATED="1528989541701" MODIFIED="1528989541701">
+<node TEXT="Within five years time, CodeDepot will have sparked a paradigm shift through-out the entire software ecosystem." ID="ID_1234769602" CREATED="1528989565545" MODIFIED="1528989586996">
+<node TEXT=" Time-to-market for software projects will have decreased a hundredfold." ID="ID_1862840314" CREATED="1528989591505" MODIFIED="1528989643339"/>
+<node TEXT=" The complexity of developing software will have been mostly eliminated.&#xa; Snippets of software are in essence Lego like reusable components that" ID="ID_349227524" CREATED="1528989644603" MODIFIED="1528989660603"/>
+<node TEXT=" Snippets of software are in essence Lego like reusable components that&#xa;just snap together, even autonomously into a desired structure." ID="ID_1214681080" CREATED="1528989678389" MODIFIED="1528989680879"/>
+<node TEXT=" It will not matter which programming language was used to create an&#xa;individual component and any component will seamlessly communicate&#xa;with others." ID="ID_153207001" CREATED="1528989692831" MODIFIED="1528989694590"/>
+<node TEXT=" Computation will efficiently execute at a climax performance." ID="ID_1465184796" CREATED="1528989705053" MODIFIED="1528989708319"/>
+<node TEXT=" Once a component or a structure of components has been created, it will&#xa;never have to be created again by anyone. Yes, ever again.. as in the&#xa;literal sense of forever." ID="ID_1448614536" CREATED="1528989729418" MODIFIED="1528989731516"/>
+<node TEXT=" An individual component of code will be shared by every piece of running&#xa;software in the world that requires it." ID="ID_98474439" CREATED="1528989744867" MODIFIED="1528989747214"/>
+<node TEXT=" An executing software system, even a mission critical system, could be&#xa;altered or replaced without even a nanosecond of downtime." ID="ID_152047385" CREATED="1528989764894" MODIFIED="1528989768093"/>
+<node TEXT=" User interfaces will be so easy to use.. a four year old can run the world." ID="ID_1281945193" CREATED="1528989769803" MODIFIED="1528989786138"/>
+<node TEXT=" User interfaces will also be component based.. meaning flexibility, device&#xa;agnostic, and fully customizable." ID="ID_91555011" CREATED="1528989801161" MODIFIED="1528989803383"/>
+<node TEXT=" Compensation for all the value added to the ecosystem will be decentral-&#xa;ized with intermediaries removed." ID="ID_1677195183" CREATED="1528989818494" MODIFIED="1528989820564"/>
+<node TEXT=" Propietary software will all be but eliminated and open source will be the&#xa;convention." ID="ID_1752429029" CREATED="1528989834647" MODIFIED="1528989836516"/>
+<node TEXT=" The most cutting edge technologies will be infused into software develop-&#xa;ment and usage.. as in the various use cases for artifical intelligence and&#xa;virtual reality to name a couple." ID="ID_519605249" CREATED="1528989848690" MODIFIED="1528989850859"/>
+<node TEXT=" Computing and data storage will be most secure with privacy protected." ID="ID_237967341" CREATED="1528989877671" MODIFIED="1528989935326"/>
+<node TEXT=" Conventions and standards will be decentralized and evolve autonomously." ID="ID_381448368" CREATED="1528989916646" MODIFIED="1528989918512"/>
+<node TEXT=" Governence of the ecosystem will be decentralized." ID="ID_1839793677" CREATED="1528989955478" MODIFIED="1528989957268"/>
+<node TEXT=" Our overall engagement with software will finally be a seamless experience&#xa;that is quite pleasant." ID="ID_580070713" CREATED="1528989972415" MODIFIED="1528989974881"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="The Six Pillars" ID="ID_1935015687" CREATED="1528659817586" MODIFIED="1528659826806">
+<node TEXT="CodeDepot Collaborative" FOLDED="true" ID="ID_1406662959" CREATED="1528735126977" MODIFIED="1528735138167">
+<node TEXT="Introduction" ID="ID_1784248838" CREATED="1528990164065" MODIFIED="1528990170312">
+<node TEXT="Dedicated to Pieter Hintgens" ID="ID_1344500887" CREATED="1528992415813" MODIFIED="1528992426641"/>
+<node TEXT="James Surowiecki &quot;The Wisdom of the Crowds&quot;" FOLDED="true" ID="ID_877377060" CREATED="1528990232629" MODIFIED="1528990294806">
+<node TEXT="" ID="ID_71432414" CREATED="1528990294811" MODIFIED="1528990294811">
+<node TEXT="Groups are remarkably intelligent, often more intelligent than the smartest people in the room" ID="ID_835554860" CREATED="1528990395456" MODIFIED="1528990475421"/>
+<node TEXT="Collective intelligence usually produces better outcomes than a small group of experts" ID="ID_694754119" CREATED="1528990496305" MODIFIED="1528990574284"/>
+<node ID="ID_1763618896" CREATED="1528990336555" MODIFIED="1528990336555"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      random people on average will be smarter than a few experts
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Counterintuitive thesis that mocks centuries of perceived wisdom" ID="ID_1972559840" CREATED="1528992439517" MODIFIED="1528992500766"/>
+<node TEXT="Together and engaged society will undoubtedly find the best solutions to the issues that face them" ID="ID_856078702" CREATED="1528992510820" MODIFIED="1528992567673"/>
+<node TEXT="Over forty years, the FOSS community has shown that open participation provides better solutions to that of a closed system" ID="ID_1696280182" CREATED="1528992576006" MODIFIED="1528992622909"/>
+<node TEXT="The longevity of decentralized living systems, which self organize and are able to adapt rapidly, is much greater than that of a planned centralized system" ID="ID_1104441036" CREATED="1528992629255" MODIFIED="1528992703954"/>
+</node>
+</node>
+<node TEXT="Intro to governance model" ID="ID_1406628413" CREATED="1528990172696" MODIFIED="1528992841184">
+<node TEXT="CodeDepot has an open governance model" ID="ID_228204958" CREATED="1528992841189" MODIFIED="1528992866458">
+<node TEXT="Directives and decisions are decentralized and democratized amongst the entire community" ID="ID_809865466" CREATED="1528992876129" MODIFIED="1528992979081"/>
+</node>
+<node TEXT="Decentralized governance and transparency is aimed at stemming the problems of any centralized system that inherently creates hierarchical levels of domination and control" ID="ID_1745490416" CREATED="1528992980534" MODIFIED="1528993053368"/>
+<node TEXT="Will utilize an infrastructure which allows for the most easy access and communication" ID="ID_1730614573" CREATED="1528993059216" MODIFIED="1528993084923"/>
+<node TEXT="All barriers that may cause friction in the governance system sill be sought out and removed collectively" ID="ID_1317685686" CREATED="1528993099619" MODIFIED="1528993203975"/>
+<node TEXT="Members that are needed in the position of trust will only earn those positions meritocratically and only through community approval" ID="ID_1034810174" CREATED="1528993242208" MODIFIED="1528993343780">
+<node TEXT="Every member shall have a voice and opportunity for rapid advancement" ID="ID_518348749" CREATED="1528993348801" MODIFIED="1528993427350"/>
+</node>
+</node>
+<node TEXT="Blockchain" FOLDED="true" ID="ID_724419154" CREATED="1528993503760" MODIFIED="1528993529156">
+<node TEXT="Enables a radical departure from the governance models of the old world" ID="ID_1291919622" CREATED="1528993721835" MODIFIED="1528993751152">
+<node TEXT="It follows trends of decentralization, through the internet, in recent years including Bittorrent, the FOSS movements and collaborative production platforms like Linux and Wikipedia" ID="ID_1423415854" CREATED="1528993754718" MODIFIED="1528993876187"/>
+</node>
+<node TEXT="The essence of this game changing invention is distributed trust." ID="ID_1783743759" CREATED="1528993879935" MODIFIED="1528993915577">
+<node TEXT="No need for third party reconciliation" ID="ID_559511017" CREATED="1528993915581" MODIFIED="1528993948174"/>
+<node TEXT="Solves the scaling issue of trust" ID="ID_1437233182" CREATED="1528993948933" MODIFIED="1528993990409"/>
+<node TEXT="Has a decentralized security.. we can now create a more open and inclusive society at a global scale" ID="ID_1893826701" CREATED="1528993991856" MODIFIED="1528994039661"/>
+</node>
+<node TEXT="Opens a door to a new paradigm where people can choose to abide by a protocol of consensus" ID="ID_850275189" CREATED="1528994041630" MODIFIED="1528994107897">
+<node TEXT="is different from the logic of domination and control of a centralized paradigm" ID="ID_992367183" CREATED="1528994107902" MODIFIED="1528994215017"/>
+<node TEXT="Decentralized Autonomous Organizations (DAO).. a new concept now available through this cutting edge tech, will provide many benefits to open and decentralized organizational structures where they are applicable" ID="ID_731974121" CREATED="1528994215626" MODIFIED="1528994420832">
+<node TEXT="Technology can&apos;t solve everything" ID="ID_1258607724" CREATED="1528994470088" MODIFIED="1528994491052"/>
+<node TEXT="Technology is just a tool" ID="ID_1597972528" CREATED="1528994491531" MODIFIED="1528994500438"/>
+<node TEXT="Always needs to be accounted for by a democratic consensus of people" ID="ID_1895338966" CREATED="1528994500923" MODIFIED="1528994616780"/>
+<node TEXT="Tech should never be used to replace human interaction and connection.. it should only be used to enhance it" ID="ID_1149394613" CREATED="1528994617150" MODIFIED="1528994657227"/>
+</node>
+</node>
+</node>
+<node TEXT="Conclusion" ID="ID_198401" CREATED="1528994671175" MODIFIED="1528994675186">
+<node TEXT="A collaborative is similar to a Cooperative" ID="ID_1803580528" CREATED="1528994681621" MODIFIED="1528994705840">
+<node TEXT="A legal entity defined as &quot;a jointly owned enterprise engaging in the production or distribution of goods or supplying of services, operated by its members for their mutual benefit&quot;." ID="ID_301085378" CREATED="1528994706559" MODIFIED="1528994801750">
+<node TEXT="CodeDepot includes consumers into our definition of a collaborative as well." ID="ID_575975184" CREATED="1528994801755" MODIFIED="1528994841861"/>
+<node TEXT="A very interesting question, but plausible at this time, whether the concept of a DAO is able to supplant any possible need for the collaborative to be registered as a legal entity." ID="ID_1392732031" CREATED="1528994843737" MODIFIED="1528994954258"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="CodeCache" FOLDED="true" ID="ID_24840708" CREATED="1528735140949" MODIFIED="1528735146652">
+<node TEXT="Introduction" FOLDED="true" ID="ID_1231838952" CREATED="1528995083042" MODIFIED="1528995086843">
+<node TEXT="The invention of blockchain in 2008, has provided the world a whole new paradigm shift in financial and contractual mechanisms" ID="ID_727300043" CREATED="1528994958831" MODIFIED="1528995076272"/>
+<node TEXT="A true marvel that will disrupt many incumbent institutions" FOLDED="true" ID="ID_1223496771" CREATED="1528995128710" MODIFIED="1528995156226">
+<node TEXT="Systems no longer need intermediaries and centralized solutions" ID="ID_240722237" CREATED="1528995175180" MODIFIED="1528995206721"/>
+<node TEXT="Systems can now be peer-to-peer and decentralized" ID="ID_1786239911" CREATED="1528995207421" MODIFIED="1528995300862"/>
+<node TEXT="Trust of persons and entities unknown can now be established w/out the need of 3rd parties for verification and validation" ID="ID_1657381592" CREATED="1528995304049" MODIFIED="1528995356132"/>
+<node TEXT="Moneys can now be sent digitally w/out any concern for fraud or corruption" ID="ID_448583147" CREATED="1528995356547" MODIFIED="1528995395153"/>
+<node TEXT="Payments in fractions of a penny are now facilitated" ID="ID_1248359262" CREATED="1528995395837" MODIFIED="1528995428074"/>
+<node TEXT="Truly amazing times and we as a community of software engagors can now benefit from this remarkability" ID="ID_820052844" CREATED="1528995429964" MODIFIED="1528995504462"/>
+</node>
+<node TEXT="" ID="ID_1929652800" CREATED="1528995699536" MODIFIED="1528995699536"/>
+</node>
+<node TEXT="CryptoCurrency" ID="ID_803974058" CREATED="1528995727259" MODIFIED="1528995735434">
+<node TEXT="At the core of CodeDepot is a network embedded cryptocurrency, enabled by blockchain technology, in which a well formulated economic model with monetary policy is inherent." ID="ID_673414400" CREATED="1528995744201" MODIFIED="1528995995253"/>
+<node TEXT="Tokens of the cryptocurrency are of limited supply, so as the network function provides more and more utilitarian value, the monetary value of the token will increase." ID="ID_54454340" CREATED="1528995996406" MODIFIED="1528996075086"/>
+<node TEXT="The utilitarian potential of CodeDepot proposal is most exciting. Thus, the token&apos;s value increases as the utility grows." ID="ID_1744872453" CREATED="1528996075591" MODIFIED="1528996121428"/>
+</node>
+<node TEXT="Economics" FOLDED="true" ID="ID_1403527825" CREATED="1528996151486" MODIFIED="1528996156937">
+<node TEXT="The model is rich w/ monetary incentives for all contributors who increase adoption and utility" ID="ID_214623298" CREATED="1528999060721" MODIFIED="1528999110866"/>
+<node TEXT="Anything that can be incentivized, will be incentivized" ID="ID_1470022415" CREATED="1528999113893" MODIFIED="1528999138417"/>
+<node TEXT="Every snippet of code deposited and hence executed will be incentivized" ID="ID_1792774448" CREATED="1528999139394" MODIFIED="1528999195150"/>
+<node TEXT="Every supporting document and usage efficiency will be rewarded" ID="ID_794169179" CREATED="1528999195809" MODIFIED="1528999223048"/>
+<node TEXT="All marketing that increases adoption will be rewarded" ID="ID_225016982" CREATED="1528999223604" MODIFIED="1528999353191"/>
+<node TEXT="The benefits of a built-in network currency with its own, well considered, monetary policy is an exciting tool that feeds incentivization and therefore rewards for all contributors" ID="ID_465063448" CREATED="1528999365357" MODIFIED="1528999586070"/>
+</node>
+<node TEXT="Conclusion" ID="ID_1825741015" CREATED="1528999599055" MODIFIED="1528999603394">
+<node TEXT="CodeDepot will also be a marketplace for end-users to purchase software and related services using tokens of the cryptocurrency." ID="ID_376842260" CREATED="1528999607470" MODIFIED="1528999654346"/>
+<node TEXT="These end-users are inclusive of all individuals, small businesses and enterprises." ID="ID_1913191435" CREATED="1528999654991" MODIFIED="1528999690945"/>
+<node TEXT="See CodeDepot section below" ID="ID_1453274291" CREATED="1528999691754" MODIFIED="1528999708923"/>
+</node>
+</node>
+<node TEXT="CodeDepot.tech" FOLDED="true" ID="ID_1519447595" CREATED="1528735147367" MODIFIED="1528821214192">
+<node TEXT="Introduction" ID="ID_731824432" CREATED="1528999868861" MODIFIED="1528999878960">
+<node TEXT="This is the core component of the ecosystem" ID="ID_1453101415" CREATED="1528999881917" MODIFIED="1528999908255"/>
+<node TEXT="A website portal for software users and producers to engage" ID="ID_1077028920" CREATED="1528999909523" MODIFIED="1529000244837">
+<node TEXT="Devs will have an interface to deposit software code into the system&apos;s repository" ID="ID_718588682" CREATED="1529000244842" MODIFIED="1529000359159"/>
+<node TEXT="users will have an interface to utilize it." ID="ID_1452986737" CREATED="1529000381385" MODIFIED="1529000399899"/>
+</node>
+<node TEXT="Other participants will include" FOLDED="true" ID="ID_1196460714" CREATED="1529000404567" MODIFIED="1529000428215">
+<node TEXT="Documentation contributers" ID="ID_995183561" CREATED="1529000428220" MODIFIED="1529000436335"/>
+<node TEXT="article writers" ID="ID_1547777624" CREATED="1529000436735" MODIFIED="1529000443727"/>
+<node TEXT="Bloggers" ID="ID_1323569033" CREATED="1529000444242" MODIFIED="1529000449165"/>
+<node TEXT="Audio and Video producers" ID="ID_1346868557" CREATED="1529000449640" MODIFIED="1529000460816"/>
+<node TEXT="Actually, anything surrounding software and related tech" ID="ID_1407968824" CREATED="1529000461312" MODIFIED="1529000479434"/>
+</node>
+<node TEXT="Conclusion" ID="ID_266405498" CREATED="1529000629014" MODIFIED="1529000633858">
+<node TEXT="Devs will be rights holders for what are essentially snippets of code called &quot;components&quot; in this document&apos;s nomenclature" FOLDED="true" ID="ID_1560929583" CREATED="1529000635385" MODIFIED="1529000708989">
+<node TEXT="CodeDepot.tech will be a repository and market interface for their components of code and other contribution" ID="ID_1804869577" CREATED="1529000741040" MODIFIED="1529000940751"/>
+</node>
+<node TEXT="Users will have many advantages over conventional software produced today including but not limited to" ID="ID_757295402" CREATED="1529000959118" MODIFIED="1529000995161">
+<node TEXT="Flexibility" ID="ID_1733448011" CREATED="1529000996121" MODIFIED="1529001001772"/>
+<node TEXT="Scalability" ID="ID_2676904" CREATED="1529001002074" MODIFIED="1529001007381"/>
+<node TEXT="Security" ID="ID_1403271468" CREATED="1529001007732" MODIFIED="1529001011519"/>
+<node TEXT="Ease of use" FOLDED="true" ID="ID_1063397722" CREATED="1529001012164" MODIFIED="1529001016430">
+<node TEXT="Well written documentation" ID="ID_288574546" CREATED="1529001017069" MODIFIED="1529001024409"/>
+<node TEXT="Support videos" ID="ID_1506032223" CREATED="1529001024860" MODIFIED="1529001031808"/>
+<node TEXT="Interactive, autonomous tuteledge for every feature" ID="ID_409175821" CREATED="1529001032113" MODIFIED="1529001054180"/>
+<node TEXT="Friendly wizards for configuration needs" ID="ID_414235402" CREATED="1529001055014" MODIFIED="1529001075859"/>
+</node>
+<node TEXT="Accessibility" ID="ID_1677602213" CREATED="1529001079423" MODIFIED="1529001086698"/>
+<node TEXT="Privacy" ID="ID_1911656088" CREATED="1529001087019" MODIFIED="1529001090582"/>
+<node TEXT="Complete control and ownership of their personal data" ID="ID_1523341726" CREATED="1529001091641" MODIFIED="1529001106307"/>
+<node TEXT="Mechanisms will be built-in that provide the end-user and easy ability to:" ID="ID_875023334" CREATED="1529001106687" MODIFIED="1529001138584">
+<node TEXT="Give seamless, instantaneous feedback" ID="ID_1582681223" CREATED="1529001138589" MODIFIED="1529001162424"/>
+<node TEXT="Directly request alterations or needed features" ID="ID_1500353708" CREATED="1529001163244" MODIFIED="1529001192675"/>
+</node>
+<node TEXT="Intuit the product through complete documentation and autonomous tuteledge" ID="ID_1395088974" CREATED="1529001194074" MODIFIED="1529001232667"/>
+<node TEXT="Hire affordable freelancers directly from their user interfaces" FOLDED="true" ID="ID_1903033355" CREATED="1529001233237" MODIFIED="1529001290286">
+<node TEXT="For assistance or instruction" ID="ID_842757817" CREATED="1529001297993" MODIFIED="1529001308692"/>
+<node TEXT="For software developers to provice any possible needed customization" ID="ID_724688173" CREATED="1529001309250" MODIFIED="1529001334264"/>
+</node>
+<node TEXT="Possibly choose &quot;payment methods&quot;" ID="ID_1069073494" CREATED="1529001340900" MODIFIED="1529001354374">
+<node TEXT="Advertising" ID="ID_884220138" CREATED="1529001354988" MODIFIED="1529001360713"/>
+<node TEXT="Onetime fee for apps" ID="ID_736523956" CREATED="1529001362711" MODIFIED="1529001368909"/>
+<node TEXT="Per execution cycle (micropayments)" ID="ID_38341790" CREATED="1529001369294" MODIFIED="1529001392174"/>
+<node TEXT="Contractual, e.g. monthly/yearly" ID="ID_472157822" CREATED="1529001393491" MODIFIED="1529001411119"/>
+<node TEXT="Synergies via CodeDepot&apos;s economic partners" ID="ID_807375941" CREATED="1529001411832" MODIFIED="1529001427115"/>
+<node TEXT="Selling value of their usage characteristics e.g. Facebook business model, where the user is the product" ID="ID_148603778" CREATED="1529001428045" MODIFIED="1529001469637"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="CodeChain" ID="ID_959959880" CREATED="1528735161438" MODIFIED="1528735165303"/>
+<node TEXT="CodeSweet" ID="ID_1323378464" CREATED="1528735166177" MODIFIED="1528735181024"/>
+<node TEXT="WorkSource" ID="ID_918951394" CREATED="1528735181775" MODIFIED="1528735200066"/>
+</node>
+<node TEXT="Furthermore" ID="ID_112627374" CREATED="1528680067598" MODIFIED="1528680073424">
+<node TEXT="User Interfaces" ID="ID_1000710344" CREATED="1528735211372" MODIFIED="1528735242405"/>
+</node>
+</node>
+<node TEXT="Book" POSITION="right" ID="ID_279929863" CREATED="1528659785807" MODIFIED="1528659790928">
+<edge COLOR="#00ff00"/>
+<node TEXT="Part I" FOLDED="true" ID="ID_1612719481" CREATED="1528680754301" MODIFIED="1528726342908">
+<node TEXT="Introduction (whitepaper)" ID="ID_1552115121" CREATED="1528680246382" MODIFIED="1528726342906"/>
+</node>
+<node TEXT="Part II" ID="ID_559994170" CREATED="1528726146530" MODIFIED="1528726171070">
+<node TEXT="Community Collaborative" ID="ID_133651503" CREATED="1528726748488" MODIFIED="1528726788647">
+<node TEXT="The Problem" ID="ID_328179143" CREATED="1528735630614" MODIFIED="1528735637541">
+<node TEXT="Corporations are failing us" ID="ID_1765256055" CREATED="1528735793422" MODIFIED="1528735807830"/>
+</node>
+<node TEXT="The Solution" ID="ID_782772222" CREATED="1528735638011" MODIFIED="1528735642649">
+<node TEXT="Decentralized Workplace" ID="ID_1787635745" CREATED="1528821305626" MODIFIED="1528821319364">
+<node TEXT="Meritocracy" ID="ID_1689996163" CREATED="1528735097307" MODIFIED="1528735102693">
+<node TEXT="Any value added gets compensated" ID="ID_899780587" CREATED="1528735403734" MODIFIED="1528735442000"/>
+</node>
+<node TEXT="Freedom to work when, where, how and on what you want to work on." ID="ID_264581023" CREATED="1528735882279" MODIFIED="1528735911424"/>
+</node>
+</node>
+<node TEXT="The Impact" ID="ID_763647695" CREATED="1528735643365" MODIFIED="1528735715475"/>
+</node>
+<node TEXT="Portal" ID="ID_1494076224" CREATED="1528726467682" MODIFIED="1528726479166">
+<node TEXT="Introduction" ID="ID_47710641" CREATED="1528726673461" MODIFIED="1528726686965"/>
+<node TEXT="Creators" ID="ID_46633864" CREATED="1528726688803" MODIFIED="1528726715966"/>
+<node TEXT="Users" ID="ID_1131465402" CREATED="1528726719129" MODIFIED="1528726726943"/>
+</node>
+<node TEXT="Governence" ID="ID_170109324" CREATED="1528726398535" MODIFIED="1528726402937">
+<node TEXT="Liquid Democracy" FOLDED="true" ID="ID_733965203" CREATED="1528735245635" MODIFIED="1528735255247">
+<node TEXT="Voting" ID="ID_1282036052" CREATED="1528735335697" MODIFIED="1528735339554"/>
+</node>
+</node>
+<node TEXT="Marketplace" ID="ID_1112749446" CREATED="1528726404115" MODIFIED="1528726409516"/>
+<node TEXT="User Interfaces" ID="ID_1722733060" CREATED="1528726411700" MODIFIED="1528726421731"/>
+<node TEXT="Token Economics" ID="ID_10164832" CREATED="1528726425399" MODIFIED="1528726447331"/>
+<node TEXT="Marketing" ID="ID_319985906" CREATED="1528726727661" MODIFIED="1528726733237"/>
+<node TEXT="Tools" ID="ID_73460142" CREATED="1528726789455" MODIFIED="1528726794048">
+<node TEXT="Developer" ID="ID_1442553729" CREATED="1528726794660" MODIFIED="1528726798985"/>
+<node TEXT="User" ID="ID_350157290" CREATED="1528726799939" MODIFIED="1528726802611"/>
+</node>
+</node>
+<node TEXT="Part III" ID="ID_1938381615" CREATED="1528726175503" MODIFIED="1528726195597">
+<node TEXT="Appendix" ID="ID_1220057417" CREATED="1528726204697" MODIFIED="1528726209852">
+<node TEXT="CBP" ID="ID_473362827" CREATED="1528726574290" MODIFIED="1528726640759"/>
+<node TEXT="Model for future decentralized workplace" ID="ID_1153235226" CREATED="1528821253382" MODIFIED="1528821274009"/>
+</node>
+</node>
+</node>
+</node>
+</map>
