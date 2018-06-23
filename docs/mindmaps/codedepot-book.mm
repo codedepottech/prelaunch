@@ -245,7 +245,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Counterintuitive thesis that mocks centuries of perceived wisdom" ID="ID_1972559840" CREATED="1528992439517" MODIFIED="1528992500766"/>
@@ -326,14 +325,14 @@
 <node TEXT="See CodeDepot section below" ID="ID_1453274291" CREATED="1528999691754" MODIFIED="1528999708923"/>
 </node>
 </node>
-<node TEXT="CodeDepot.tech" FOLDED="true" ID="ID_1519447595" CREATED="1528735147367" MODIFIED="1528821214192">
+<node TEXT="CodeDepot.tech" ID="ID_1519447595" CREATED="1528735147367" MODIFIED="1528821214192">
 <node TEXT="Introduction" ID="ID_731824432" CREATED="1528999868861" MODIFIED="1528999878960">
 <node TEXT="This is the core component of the ecosystem" ID="ID_1453101415" CREATED="1528999881917" MODIFIED="1528999908255"/>
 <node TEXT="A website portal for software users and producers to engage" ID="ID_1077028920" CREATED="1528999909523" MODIFIED="1529000244837">
 <node TEXT="Devs will have an interface to deposit software code into the system&apos;s repository" ID="ID_718588682" CREATED="1529000244842" MODIFIED="1529000359159"/>
 <node TEXT="users will have an interface to utilize it." ID="ID_1452986737" CREATED="1529000381385" MODIFIED="1529000399899"/>
 </node>
-<node TEXT="Other participants will include" FOLDED="true" ID="ID_1196460714" CREATED="1529000404567" MODIFIED="1529000428215">
+<node TEXT="Other participants will include" ID="ID_1196460714" CREATED="1529000404567" MODIFIED="1529000428215">
 <node TEXT="Documentation contributers" ID="ID_995183561" CREATED="1529000428220" MODIFIED="1529000436335"/>
 <node TEXT="article writers" ID="ID_1547777624" CREATED="1529000436735" MODIFIED="1529000443727"/>
 <node TEXT="Bloggers" ID="ID_1323569033" CREATED="1529000444242" MODIFIED="1529000449165"/>
@@ -341,14 +340,14 @@
 <node TEXT="Actually, anything surrounding software and related tech" ID="ID_1407968824" CREATED="1529000461312" MODIFIED="1529000479434"/>
 </node>
 <node TEXT="Conclusion" ID="ID_266405498" CREATED="1529000629014" MODIFIED="1529000633858">
-<node TEXT="Devs will be rights holders for what are essentially snippets of code called &quot;components&quot; in this document&apos;s nomenclature" FOLDED="true" ID="ID_1560929583" CREATED="1529000635385" MODIFIED="1529000708989">
+<node TEXT="Devs will be rights holders for what are essentially snippets of code called &quot;components&quot; in this document&apos;s nomenclature" ID="ID_1560929583" CREATED="1529000635385" MODIFIED="1529000708989">
 <node TEXT="CodeDepot.tech will be a repository and market interface for their components of code and other contribution" ID="ID_1804869577" CREATED="1529000741040" MODIFIED="1529000940751"/>
 </node>
 <node TEXT="Users will have many advantages over conventional software produced today including but not limited to" ID="ID_757295402" CREATED="1529000959118" MODIFIED="1529000995161">
 <node TEXT="Flexibility" ID="ID_1733448011" CREATED="1529000996121" MODIFIED="1529001001772"/>
 <node TEXT="Scalability" ID="ID_2676904" CREATED="1529001002074" MODIFIED="1529001007381"/>
 <node TEXT="Security" ID="ID_1403271468" CREATED="1529001007732" MODIFIED="1529001011519"/>
-<node TEXT="Ease of use" FOLDED="true" ID="ID_1063397722" CREATED="1529001012164" MODIFIED="1529001016430">
+<node TEXT="Ease of use" ID="ID_1063397722" CREATED="1529001012164" MODIFIED="1529001016430">
 <node TEXT="Well written documentation" ID="ID_288574546" CREATED="1529001017069" MODIFIED="1529001024409"/>
 <node TEXT="Support videos" ID="ID_1506032223" CREATED="1529001024860" MODIFIED="1529001031808"/>
 <node TEXT="Interactive, autonomous tuteledge for every feature" ID="ID_409175821" CREATED="1529001032113" MODIFIED="1529001054180"/>
@@ -362,7 +361,7 @@
 <node TEXT="Directly request alterations or needed features" ID="ID_1500353708" CREATED="1529001163244" MODIFIED="1529001192675"/>
 </node>
 <node TEXT="Intuit the product through complete documentation and autonomous tuteledge" ID="ID_1395088974" CREATED="1529001194074" MODIFIED="1529001232667"/>
-<node TEXT="Hire affordable freelancers directly from their user interfaces" FOLDED="true" ID="ID_1903033355" CREATED="1529001233237" MODIFIED="1529001290286">
+<node TEXT="Hire affordable freelancers directly from their user interfaces" ID="ID_1903033355" CREATED="1529001233237" MODIFIED="1529001290286">
 <node TEXT="For assistance or instruction" ID="ID_842757817" CREATED="1529001297993" MODIFIED="1529001308692"/>
 <node TEXT="For software developers to provice any possible needed customization" ID="ID_724688173" CREATED="1529001309250" MODIFIED="1529001334264"/>
 </node>
@@ -378,11 +377,101 @@
 </node>
 </node>
 </node>
-<node TEXT="CodeChain" ID="ID_959959880" CREATED="1528735161438" MODIFIED="1528735165303"/>
+<node TEXT="CodeChain" ID="ID_959959880" CREATED="1528735161438" MODIFIED="1528735165303">
+<node TEXT="The problems with conventional programming paradigms are numerous" FOLDED="true" ID="ID_1504670263" CREATED="1529609329901" MODIFIED="1529610097025">
+<node TEXT="Google search.. 80.5 million results" ID="ID_1081975003" CREATED="1529610097033" MODIFIED="1529610136218"/>
+</node>
+<node TEXT="The reader is asked" FOLDED="true" ID="ID_1153094470" CREATED="1529609937139" MODIFIED="1529610146745">
+<node TEXT=" What if snippets of software were in essence Lego like reusable components that just snapped together, even autonomously into a desired structure?" ID="ID_2608270" CREATED="1529610146752" MODIFIED="1529610355429"/>
+<node TEXT=" What if once a component or a structure of components was created, it would never have to be created again by anyone? Yes, ever again as in the literal sense of forever." ID="ID_140775638" CREATED="1529610207012" MODIFIED="1529610369802"/>
+<node TEXT=" What if once a component was created it would be shared by every piece of running software in the world that required it?" ID="ID_780798929" CREATED="1529610284144" MODIFIED="1529610387018"/>
+<node TEXT=" What if an executing software system, even a mission critical system, could be altered or replaced without even a nanosecond of downtime." ID="ID_100453806" CREATED="1529610306991" MODIFIED="1529610395025"/>
+<node TEXT=" What if it did not matter which programming language was used to create an individual component and that any component could seamlessly communicate with others?" ID="ID_1054630793" CREATED="1529610334778" MODIFIED="1529610411506"/>
+<node TEXT=" What if a software producer&#x2019;s time-to-market was reduced by a hundredfold?" ID="ID_137623233" CREATED="1529610450819" MODIFIED="1529610506169"/>
+<node TEXT=" What if a software&#x2019;s execution was most reliable and the most possibly secure from intrusion?" ID="ID_1525368143" CREATED="1529610484637" MODIFIED="1529610513601"/>
+<node TEXT=" What if a software user&#x2019;s privacy was held in the highest regard." ID="ID_747151415" CREATED="1529610519016" MODIFIED="1529610534170"/>
+</node>
+<node TEXT="FBP: The architectural inspiration" FOLDED="true" ID="ID_117461616" CREATED="1529610578804" MODIFIED="1529610607469">
+<node TEXT="Defines applications as a network of &quot;black box&quot; processes" ID="ID_1999411952" CREATED="1529614994428" MODIFIED="1529615022600">
+<node TEXT="Can be reconnected endlessly to form different applications w/out having to be changed internally" ID="ID_87785502" CREATED="1529615033574" MODIFIED="1529615086804"/>
+</node>
+<node TEXT="FBP is naturally &quot;component-orientated&quot;" ID="ID_233334159" CREATED="1529615087873" MODIFIED="1529615111982"/>
+<node TEXT="Is a particular form of &quot;data-flow&quot; programming" FOLDED="true" ID="ID_97270234" CREATED="1529615112770" MODIFIED="1529615148674">
+<node TEXT="based on bounded buffers" ID="ID_1813157411" CREATED="1529615148678" MODIFIED="1529615156558"/>
+<node TEXT="information packets w/ defined lifetimes" ID="ID_707037554" CREATED="1529615157943" MODIFIED="1529615172482"/>
+<node TEXT="named ports" ID="ID_1824985889" CREATED="1529615173006" MODIFIED="1529615176498"/>
+<node TEXT="a separate definition of connections" ID="ID_451824065" CREATED="1529615178089" MODIFIED="1529615197877"/>
+</node>
+<node TEXT="Defines applications using the metaphor of a &quot;data factory&quot;" FOLDED="true" ID="ID_329495858" CREATED="1529615211520" MODIFIED="1529615236707">
+<node TEXT="apps are viewed not as a single, sequential process, which starts at one point in time, and then does one thing at a time until it is finished... but, as a network of asynchronous processes communicating by means of streams of structured data chunks called &quot;information packets&quot; (IPs)" ID="ID_421955246" CREATED="1529615243082" MODIFIED="1529615458343"/>
+<node TEXT="The focus is on the application data and the transformations applied to it to produce the desired outputs." ID="ID_1540797354" CREATED="1529615462697" MODIFIED="1529615504435"/>
+<node TEXT="The network is defined externally to the processes, as a list of connections which is interpreted by software, usually called the &quot;scheduler&quot;" ID="ID_1672551569" CREATED="1529615505496" MODIFIED="1529615635470"/>
+<node TEXT="The processes communicate by means of fixed-capacity connections. A connection is attached to a process by means of a &quot;port&quot;, which has a name agreed upon between the process code and the network definition" ID="ID_451463145" CREATED="1529615642602" MODIFIED="1529615732425"/>
+<node TEXT="More than one process can execute the same piece of code" ID="ID_48186362" CREATED="1529615733928" MODIFIED="1529615815737">
+<node TEXT="At any point in time, a given IP can only be &quot;owned&quot; by a single process, or be in transit between two processes" ID="ID_1745636510" CREATED="1529615816619" MODIFIED="1529615872360"/>
+</node>
+<node TEXT="Ports may either be simple or array-type" ID="ID_281495665" CREATED="1529615874176" MODIFIED="1529615906446"/>
+<node TEXT="It is the combination of ports w/ asynchronous processes that allows many long-running primitive functions of data processing to be supported in the form of software black boxes.. such as:" FOLDED="true" ID="ID_1073682361" CREATED="1529615909242" MODIFIED="1529616189603">
+<node TEXT="Sort" ID="ID_1991220018" CREATED="1529615979222" MODIFIED="1529615982269"/>
+<node TEXT="Merge" ID="ID_1903569811" CREATED="1529615982614" MODIFIED="1529615986103"/>
+<node TEXT="Summarize" ID="ID_28565719" CREATED="1529615987654" MODIFIED="1529615992045"/>
+<node TEXT="etc" ID="ID_1456815004" CREATED="1529615992489" MODIFIED="1529615994024"/>
+</node>
+</node>
+<node TEXT="FBP apps generally run in less elapsed time than conventional programs and make optimal use of all the processors on a machine.. WITH NO SPECIAL PROGRAMMING TO ACHIEVE THIS" ID="ID_1337114277" CREATED="1529616203086" MODIFIED="1529616283124"/>
+<node TEXT="The network definition is usually diagrammatic. It is converted into a connection list in some lower-level language or notation." FOLDED="true" ID="ID_1451034608" CREATED="1529616286907" MODIFIED="1529616403168">
+<node TEXT="FBP is often a visual programming language at this level" ID="ID_1969466207" CREATED="1529616405676" MODIFIED="1529616443920"/>
+<node TEXT="More complex network definitions have a hierarchical structure, being built up from subnets w/ &quot;sticky&quot; connections." ID="ID_1208423514" CREATED="1529616444483" MODIFIED="1529616524245">
+<node TEXT="Atomic Components" ID="ID_1915732547" CREATED="1529616524251" MODIFIED="1529616532483"/>
+<node TEXT="Compound Components" ID="ID_1171238286" CREATED="1529616533092" MODIFIED="1529616722178"/>
+</node>
+</node>
+<node TEXT="Is a &quot;coordination language&quot; in that it is essentially language independent" ID="ID_1884032414" CREATED="1529616750327" MODIFIED="1529616807781"/>
+<node TEXT="Is the loosest type coupling between components" ID="ID_1125938957" CREATED="1529616810299" MODIFIED="1529616852012">
+<node TEXT="SOA.. service orientated architecture" ID="ID_1057619347" CREATED="1529616852840" MODIFIED="1529616870332"/>
+<node TEXT="microservices" ID="ID_1656577193" CREATED="1529616871389" MODIFIED="1529616891628"/>
+<node TEXT="More fine-grained level than other examples of this architecture" ID="ID_1002593727" CREATED="1529616892057" MODIFIED="1529616931594"/>
+</node>
+<node TEXT="Promotes high-level, functional style of specs that simplify reasoning about system behavior" ID="ID_1108993934" CREATED="1529616933186" MODIFIED="1529616998383">
+<node TEXT="An example: the distributed data flow model (look this up) for constructively specifying and analyzing the semantics of distributed multi-party protocols" ID="ID_1948311039" CREATED="1529616998389" MODIFIED="1529617090481"/>
+</node>
+<node TEXT="Invented by J. Paul Morrison in the early 1970&apos;s" ID="ID_1652578074" CREATED="1529617091701" MODIFIED="1529617121840"/>
+<node TEXT="Implemented in software for a Canadian bank in 1975" ID="ID_823822025" CREATED="1529617124173" MODIFIED="1529617150762">
+<node TEXT="As of 2013, has been in continuous production use, without ANY downtime. (38 years)" ID="ID_1081086447" CREATED="1529617155538" MODIFIED="1529617275745"/>
+</node>
+<node TEXT="Has limitations at scale though becuase of &quot;context switching&quot;" ID="ID_217318607" CREATED="1529617277339" MODIFIED="1529617421115">
+<node TEXT="Especially so on a conventional general purpose CPU" ID="ID_802395612" CREATED="1529617329580" MODIFIED="1529617487236"/>
+<node TEXT="A point  will be reached where the number of context switches on a single machine, multi-core CPU, overwhelms the system and causes noticable latency." ID="ID_306635356" CREATED="1529617488410" MODIFIED="1529617628981">
+<node TEXT="On avg, context switching costs approximately 30 microseconds of overhead per occurrence" ID="ID_455379335" CREATED="1529617628985" MODIFIED="1529617712341"/>
+<node TEXT="One benchmark of the theoretical limitations of context switching has an upper bound of 18.75% of CPU cycles wasted due to context switching" ID="ID_797800125" CREATED="1529617713697" MODIFIED="1529617833974"/>
+<node TEXT="Generally, optimal CPU use is to have the same number of worker threads as there are hardware threads when a process is CPU bound, whereas I/O bound processes permit more." ID="ID_476587328" CREATED="1529617834606" MODIFIED="1529617913422"/>
+</node>
+</node>
+</node>
+<node TEXT="CBP: Component Based Programming" ID="ID_299204329" CREATED="1529617937654" MODIFIED="1529617951222">
+<node TEXT="To overcome the limitations of FBP, the following considerations are presented to maximize the efficacy of the CodeChain system" ID="ID_453810556" CREATED="1529617968337" MODIFIED="1529622149037">
+<node TEXT="A) the FBP model (autonomous blackbox components loosly coupled via lazy linkage) can be easily considered at varous phases of the compilation stack prior to execution." ID="ID_703127136" CREATED="1529618042652" MODIFIED="1529622577874">
+<node TEXT="this means that the constraints of each component needing to be its own execution process or thread can be removed.. yet still be loosely coupled" ID="ID_307321633" CREATED="1529622322141" MODIFIED="1529622429881"/>
+<node TEXT="&quot;Networked inter-process components&quot; can be redefined to that of a virtual model" ID="ID_1787385450" CREATED="1529622430643" MODIFIED="1529622490421">
+<node TEXT="Can be implemented by encompassing one or all the compilation&apos;s translations prior to execution." ID="ID_3910773" CREATED="1529622491697" MODIFIED="1529622558290"/>
+</node>
+</node>
+<node TEXT="B) Apply the notion of CBP to include specialty hardware processors like that of the GPGPU" ID="ID_620648712" CREATED="1529622578659" MODIFIED="1529622623743">
+<node TEXT="provide a processing model of thousands of concurrently executing threads." ID="ID_1683969790" CREATED="1529622630082" MODIFIED="1529622668249"/>
+<node TEXT="the original FBP concept (inter-communicating processes/threads and lazy linkage w/out the burdens of scalability that are imposed when merely targeting a CPU architecture, can be imagined with the CPU handling scheduling" ID="ID_1256145937" CREATED="1529622673911" MODIFIED="1529623045244"/>
+<node TEXT="GPGPUs have very large register file sizes" ID="ID_111134073" CREATED="1529623046306" MODIFIED="1529623102297"/>
+<node TEXT="Are stream processors" ID="ID_933868974" CREATED="1529623102931" MODIFIED="1529623111155">
+<node TEXT="processors that can operate in parallel by running one kernel on many records in a stream at once" ID="ID_519826869" CREATED="1529623113912" MODIFIED="1529623150629"/>
+<node TEXT="stream processing is a programming paradigm similar to dataflow programming and therefore lends itself (almost) naturally to the concept of CBP." ID="ID_1907964441" CREATED="1529623151322" MODIFIED="1529623674383"/>
+</node>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="CodeSweet" ID="ID_1323378464" CREATED="1528735166177" MODIFIED="1528735181024"/>
 <node TEXT="WorkSource" ID="ID_918951394" CREATED="1528735181775" MODIFIED="1528735200066"/>
 </node>
-<node TEXT="Furthermore" ID="ID_112627374" CREATED="1528680067598" MODIFIED="1528680073424">
+<node TEXT="Furthermore" FOLDED="true" ID="ID_112627374" CREATED="1528680067598" MODIFIED="1528680073424">
 <node TEXT="User Interfaces" ID="ID_1000710344" CREATED="1528735211372" MODIFIED="1528735242405"/>
 </node>
 </node>
@@ -392,7 +481,7 @@
 <node TEXT="Introduction (whitepaper)" ID="ID_1552115121" CREATED="1528680246382" MODIFIED="1528726342906"/>
 </node>
 <node TEXT="Part II" ID="ID_559994170" CREATED="1528726146530" MODIFIED="1528726171070">
-<node TEXT="Community Collaborative" ID="ID_133651503" CREATED="1528726748488" MODIFIED="1528726788647">
+<node TEXT="Community Collaborative" FOLDED="true" ID="ID_133651503" CREATED="1528726748488" MODIFIED="1528726788647">
 <node TEXT="The Problem" ID="ID_328179143" CREATED="1528735630614" MODIFIED="1528735637541">
 <node TEXT="Corporations are failing us" ID="ID_1765256055" CREATED="1528735793422" MODIFIED="1528735807830"/>
 </node>
@@ -406,12 +495,12 @@
 </node>
 <node TEXT="The Impact" ID="ID_763647695" CREATED="1528735643365" MODIFIED="1528735715475"/>
 </node>
-<node TEXT="Portal" ID="ID_1494076224" CREATED="1528726467682" MODIFIED="1528726479166">
+<node TEXT="Portal" FOLDED="true" ID="ID_1494076224" CREATED="1528726467682" MODIFIED="1528726479166">
 <node TEXT="Introduction" ID="ID_47710641" CREATED="1528726673461" MODIFIED="1528726686965"/>
 <node TEXT="Creators" ID="ID_46633864" CREATED="1528726688803" MODIFIED="1528726715966"/>
 <node TEXT="Users" ID="ID_1131465402" CREATED="1528726719129" MODIFIED="1528726726943"/>
 </node>
-<node TEXT="Governence" ID="ID_170109324" CREATED="1528726398535" MODIFIED="1528726402937">
+<node TEXT="Governence" FOLDED="true" ID="ID_170109324" CREATED="1528726398535" MODIFIED="1528726402937">
 <node TEXT="Liquid Democracy" FOLDED="true" ID="ID_733965203" CREATED="1528735245635" MODIFIED="1528735255247">
 <node TEXT="Voting" ID="ID_1282036052" CREATED="1528735335697" MODIFIED="1528735339554"/>
 </node>
@@ -420,13 +509,13 @@
 <node TEXT="User Interfaces" ID="ID_1722733060" CREATED="1528726411700" MODIFIED="1528726421731"/>
 <node TEXT="Token Economics" ID="ID_10164832" CREATED="1528726425399" MODIFIED="1528726447331"/>
 <node TEXT="Marketing" ID="ID_319985906" CREATED="1528726727661" MODIFIED="1528726733237"/>
-<node TEXT="Tools" ID="ID_73460142" CREATED="1528726789455" MODIFIED="1528726794048">
+<node TEXT="Tools" FOLDED="true" ID="ID_73460142" CREATED="1528726789455" MODIFIED="1528726794048">
 <node TEXT="Developer" ID="ID_1442553729" CREATED="1528726794660" MODIFIED="1528726798985"/>
 <node TEXT="User" ID="ID_350157290" CREATED="1528726799939" MODIFIED="1528726802611"/>
 </node>
 </node>
 <node TEXT="Part III" ID="ID_1938381615" CREATED="1528726175503" MODIFIED="1528726195597">
-<node TEXT="Appendix" ID="ID_1220057417" CREATED="1528726204697" MODIFIED="1528726209852">
+<node TEXT="Appendix" FOLDED="true" ID="ID_1220057417" CREATED="1528726204697" MODIFIED="1528726209852">
 <node TEXT="CBP" ID="ID_473362827" CREATED="1528726574290" MODIFIED="1528726640759"/>
 <node TEXT="Model for future decentralized workplace" ID="ID_1153235226" CREATED="1528821253382" MODIFIED="1528821274009"/>
 </node>
