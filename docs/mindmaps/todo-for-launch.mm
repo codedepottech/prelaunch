@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="7" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <node TEXT="Articulation: write book" POSITION="right" ID="ID_260934122" CREATED="1529771615715" MODIFIED="1529771638283">
 <edge COLOR="#ff0000"/>
@@ -79,10 +79,13 @@
 </node>
 <node TEXT="Infrastructure: codedepot.tech" POSITION="right" ID="ID_60037749" CREATED="1529771641064" MODIFIED="1529771658575">
 <edge COLOR="#0000ff"/>
+<node TEXT="Kubernetes / Istio" ID="ID_1088711920" CREATED="1529948916487" MODIFIED="1529948926332">
 <node TEXT="Chat" ID="ID_1182118902" CREATED="1529772451401" MODIFIED="1529772473346"/>
 <node TEXT="Forum" ID="ID_399225062" CREATED="1529772475494" MODIFIED="1529772482354"/>
 <node TEXT="Content platform / aggregator i.e: blogging, etc" ID="ID_1695965129" CREATED="1529772484016" MODIFIED="1529772589551"/>
 <node TEXT="Repository" ID="ID_711355779" CREATED="1529772506968" MODIFIED="1529772599986"/>
+<node TEXT="Token Sales" ID="ID_1294095237" CREATED="1529948975634" MODIFIED="1529949001327"/>
+</node>
 </node>
 <node TEXT="Needed Knowledge" POSITION="right" ID="ID_1295196145" CREATED="1529771984915" MODIFIED="1529771992321">
 <edge COLOR="#00ffff"/>
@@ -93,11 +96,13 @@
 <node TEXT="Decision Making:" POSITION="right" ID="ID_883749833" CREATED="1529772711905" MODIFIED="1529772721515">
 <edge COLOR="#7c0000"/>
 <node TEXT="Do we actually need a blockchain to launch, or just do it (initially) in the cloud" ID="ID_176376733" CREATED="1529772723367" MODIFIED="1529772753046">
-<node TEXT="If so, which type do we use" ID="ID_1076176575" CREATED="1529772756121" MODIFIED="1529772771379"/>
+<node TEXT="If so, which type do we use" ID="ID_1076176575" CREATED="1529772756121" MODIFIED="1529772771379">
+<node TEXT="Emin Gun Sirer (Avalanche): https://www.youtube.com/watch?v=UvJgFaoQs_A" ID="ID_936116820" CREATED="1529949298641" MODIFIED="1529949347201" LINK="https://www.youtube.com/watch?v=UvJgFaoQs_A"/>
+</node>
 <node TEXT="to start, do we implement our own, or piggy back on another... say Ethereum" ID="ID_1024911006" CREATED="1529772774346" MODIFIED="1529772843685"/>
 </node>
 </node>
-<node TEXT="Dissemination: announcement/marketing campaign" POSITION="right" ID="ID_189176645" CREATED="1529771665709" MODIFIED="1529771686959">
+<node TEXT="Dissemination: announcement/marketing campaign" FOLDED="true" POSITION="right" ID="ID_189176645" CREATED="1529771665709" MODIFIED="1529771686959">
 <edge COLOR="#00ff00"/>
 <node TEXT="email" ID="ID_628021021" CREATED="1529774698511" MODIFIED="1529774706380">
 <node TEXT="news orgs" FOLDED="true" ID="ID_1545105681" CREATED="1529774919871" MODIFIED="1529774929778">
@@ -132,6 +137,9 @@
 </node>
 <node TEXT="meetups" ID="ID_857660759" CREATED="1529774991241" MODIFIED="1529774994586"/>
 <node TEXT="podcasters" ID="ID_1203837647" CREATED="1529775126277" MODIFIED="1529775130982"/>
+</node>
+<node TEXT="Presentation Preparation and scheduling" POSITION="right" ID="ID_133693611" CREATED="1529949374290" MODIFIED="1529949398331">
+<edge COLOR="#00007c"/>
 </node>
 </node>
 </map>
