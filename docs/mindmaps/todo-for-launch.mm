@@ -97,7 +97,10 @@
 <edge COLOR="#7c0000"/>
 <node TEXT="Do we actually need a blockchain to launch, or just do it (initially) in the cloud" ID="ID_176376733" CREATED="1529772723367" MODIFIED="1529772753046">
 <node TEXT="If so, which type do we use" ID="ID_1076176575" CREATED="1529772756121" MODIFIED="1529772771379">
-<node TEXT="Emin Gun Sirer (Avalanche): https://www.youtube.com/watch?v=UvJgFaoQs_A" ID="ID_936116820" CREATED="1529949298641" MODIFIED="1529949347201" LINK="https://www.youtube.com/watch?v=UvJgFaoQs_A"/>
+<node TEXT="Emin Gun Sirer (Avalanche):" ID="ID_936116820" CREATED="1529949298641" MODIFIED="1529952402377" LINK="https://www.youtube.com/watch?v=UvJgFaoQs_A">
+<node TEXT="Surprise Announcement with Emin G&#xfc;n Sirer - Token Summit III NYC 2018:  https://www.youtube.com/watch?v=UvJgFaoQs_A" ID="ID_246122260" CREATED="1529952425020" MODIFIED="1529952623306" LINK="https://www.youtube.com/watch?v=UvJgFaoQs_A"/>
+<node TEXT="From Snowflake to Avalanche: https://www.youtube.com/watch?v=AXrrqtFlGow" ID="ID_152756238" CREATED="1529952432825" MODIFIED="1529952532296" LINK="https://www.youtube.com/watch?v=AXrrqtFlGow"/>
+</node>
 </node>
 <node TEXT="to start, do we implement our own, or piggy back on another... say Ethereum" ID="ID_1024911006" CREATED="1529772774346" MODIFIED="1529772843685"/>
 </node>
