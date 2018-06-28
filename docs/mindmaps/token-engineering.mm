@@ -1,6 +1,6 @@
 <map version="freeplane 1.6.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Token Engineering" FOLDED="false" ID="ID_1047944362" CREATED="1530209264328" MODIFIED="1530209272987" STYLE="oval">
+<node TEXT="Token Engineering" FOLDED="false" ID="ID_1047944362" CREATED="1530209264328" MODIFIED="1530220409478" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
@@ -64,6 +64,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="7" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <node TEXT="Glossary" POSITION="right" ID="ID_1537660174" CREATED="1530209344523" MODIFIED="1530209350163">
 <edge COLOR="#ff0000"/>
 <node TEXT="Token Engineering" ID="ID_633833220" CREATED="1530209351935" MODIFIED="1530209357200"/>

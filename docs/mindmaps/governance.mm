@@ -1,6 +1,6 @@
 <map version="freeplane 1.6.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Micropayments" FOLDED="false" ID="ID_445268433" CREATED="1530219653504" MODIFIED="1530220427001" STYLE="oval">
+<node TEXT="Governance" FOLDED="false" ID="ID_1569989611" CREATED="1530220042388" MODIFIED="1530220395858" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
@@ -63,15 +63,13 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="2" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="1" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Articles" POSITION="right" ID="ID_405591620" CREATED="1530219700043" MODIFIED="1530219703262">
+<node TEXT="Articles" POSITION="right" ID="ID_774099803" CREATED="1530220077517" MODIFIED="1530220089132">
 <edge COLOR="#ff0000"/>
-<node TEXT="" ID="ID_940302064" CREATED="1530219718532" MODIFIED="1530219718532">
-<node TEXT="How The Blockchain Turns Content Micropayments Into Microinvestments." ID="ID_1609094488" CREATED="1530219747204" MODIFIED="1530219747204">
-<node TEXT="Author: Maciej Olpinski" ID="ID_128896572" CREATED="1530219757781" MODIFIED="1530219778579"/>
-<node TEXT="Link: https://goo.gl/ow94CP" ID="ID_1343035568" CREATED="1530219782866" MODIFIED="1530219802877" LINK="https://goo.gl/ow94CP"/>
-</node>
+<node TEXT="Decentralized Governance Matters" ID="ID_1539103816" CREATED="1530220229020" MODIFIED="1530220243149">
+<node TEXT="Author: Matan Field" ID="ID_630952034" CREATED="1530220330589" MODIFIED="1530220340326"/>
+<node TEXT="Link: https://goo.gl/ULviSZ" ID="ID_846000327" CREATED="1530220340911" MODIFIED="1530220362092" LINK="https://goo.gl/ULviSZ"/>
 </node>
 </node>
 </node>
